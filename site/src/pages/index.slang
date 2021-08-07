@@ -4,3 +4,4 @@ html
     title Troy Sornson
   body
     h1 Hello World!
+    - puts "test"
