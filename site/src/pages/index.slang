@@ -142,13 +142,14 @@ html
           span.glyphicon.glyphicon-star-empty
 
         .col-sm-2.col-md-2.col-lg-2
-          span C#
+          span Go
         .col-sm-2.col-md-2.col-lg-2
           span.glyphicon.glyphicon-star
           span.glyphicon.glyphicon-star-empty
           span.glyphicon.glyphicon-star-empty
           span.glyphicon.glyphicon-star-empty
           span.glyphicon.glyphicon-star-empty
+
       .row
         .col-sm-2.col-md-2.col-lg-2
           span Crystal
@@ -160,11 +161,11 @@ html
           span.glyphicon.glyphicon-star
 
         .col-sm-2.col-md-2.col-lg-2
-          span C
+          span JS/CSS/HTML
         .col-sm-2.col-md-2.col-lg-2
           span.glyphicon.glyphicon-star
           span.glyphicon.glyphicon-star
-          span.glyphicon.glyphicon-star-empty
+          span.glyphicon.glyphicon-star
           span.glyphicon.glyphicon-star-empty
           span.glyphicon.glyphicon-star-empty
 
@@ -187,14 +188,22 @@ html
           span.glyphicon.glyphicon-star-empty
 
         .col-sm-2.col-md-2.col-lg-2
-          span Go
+          span C
+        .col-sm-2.col-md-2.col-lg-2
+          span.glyphicon.glyphicon-star
+          span.glyphicon.glyphicon-star
+          span.glyphicon.glyphicon-star-empty
+          span.glyphicon.glyphicon-star-empty
+          span.glyphicon.glyphicon-star-empty
+
+        .col-sm-2.col-md-2.col-lg-2
+          span C#
         .col-sm-2.col-md-2.col-lg-2
           span.glyphicon.glyphicon-star
           span.glyphicon.glyphicon-star-empty
           span.glyphicon.glyphicon-star-empty
           span.glyphicon.glyphicon-star-empty
           span.glyphicon.glyphicon-star-empty
-
       br
       .row
         dt.col-sm-12.col-md-12.col-lg-12 Technology
