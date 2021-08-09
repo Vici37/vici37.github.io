@@ -1,6 +1,5 @@
 build:
-	crystal build src/site.cr -o site_generator --error-trace
-	./site_generator
+	crystal run src/site.cr --error-trace
 
 clean:
 	rm site_generator
